@@ -1,5 +1,6 @@
 {
   "name": "react-native-lab-2",
+  "author": "Vasilina Miryan",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
   "scripts": {
